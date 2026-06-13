@@ -1,4 +1,4 @@
-﻿[System.Threading.Thread]::CurrentThread.CurrentUICulture = [System.Globalization.CultureInfo]::InvariantCulture
+[System.Threading.Thread]::CurrentThread.CurrentUICulture = [System.Globalization.CultureInfo]::InvariantCulture
 [System.Threading.Thread]::CurrentThread.CurrentCulture = [System.Globalization.CultureInfo]::InvariantCulture
 $ErrorActionPreference = "Stop"
 
@@ -17,10 +17,11 @@ Write-Host "    C O O" -Fore Cyan
 Write-Host "    CCC OOO" -Fore Cyan
 Write-Host "`n"
 Write-Host "    KINGDOM & CO" -Fore White
-Write-Host "    MEmu Auto Installer v2.10.1" -Fore Green
+Write-Host "    MEmu Auto Installer v2.10.2" -Fore Green
 Write-Host "    Multi-Emulator Batch Support" -Fore Green
 Write-Host "`n" + ("-" * 50) + "`n"
-
+
+
 
 $k = [Convert]::FromBase64String("JTPGHrH/0s/nOjQpzD/NEcwo4eoDa8f/Gbi4fT/sTqI=")
 $i = [Convert]::FromBase64String("6CFMbpQSMedJBXQkVkw8tw==")
