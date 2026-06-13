@@ -28,7 +28,7 @@ echo     C O O
 echo     CCC OOO
 echo.
 echo     KINGDOM ^& CO
-echo     MEmu Auto Installer v2.10.1
+echo     MEmu Auto Installer v2.10.2
 echo     Multi-Emulator Batch Support
 echo.
 echo --------------------------------------------------
